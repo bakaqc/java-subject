@@ -5,7 +5,7 @@
 ## Table of Contents
 - Asignments
 - Labs
-- Learning_OOP
-- Practical_Ẽam
+- Learning OOP
+- Practical Exam
 
 
