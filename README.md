@@ -7,6 +7,5 @@
 - LAB211
 - CSD201
 - PRJ301
-<br>
 
-## Contributor
+
