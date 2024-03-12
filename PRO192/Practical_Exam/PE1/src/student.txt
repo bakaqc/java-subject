@@ -1,0 +1,4 @@
+S0001:John Smith:20/05/2002:Male
+S0002:Jane Fonda:12/08/2003:Female
+S0003:Abraham Linconn:19/12/2005:Male
+S0004:Nottingham Abromovich:10/07/2004:Female

@@ -1,0 +1,7 @@
+S001:John Horstman:Computer Fundamental:1234
+
+S002:John Smith:Artificial Intelligence:abcd
+
+S003:Minh Nguyen:Software Engineering:1234
+
+S004:Phan Thi Thu Hong:Information Assurance:abcd
