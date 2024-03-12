@@ -1,11 +1,11 @@
 ## LAB211
-- This is LAB211 courses at FPT Quy Nhon University AI Campus
+- This is LAB211 courses at FPT Quy Nhon University AI Campus.
 <br>
 
 ## Table of Contents
-- Assignments
-- Labs
-- Query SQL
+- Assignments: [Click here!!!](Assignments/README.md)
+- Labs: [Click here!!!](Labs/README.md)
+- Query SQL: [Click here!!!](QuerySQL/README.md)
 
 
 

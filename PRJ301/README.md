@@ -3,6 +3,6 @@
 <br>
 
 ## Table of Contents
-- Labs
+- Labs: [Click here!!!](Labs/README.md)
 
 
