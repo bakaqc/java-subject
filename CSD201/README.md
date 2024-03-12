@@ -1,11 +1,11 @@
-## Java Subject
-- These are Java courses at FPT Quy Nhon University AI Campus
+## CSD201
+- This is CSD201 courses at FPT Quy Nhon University AI Campus
 <br>
 
 ## Table of Contents
-- PRO192
-- LAB211
-- CSD201
-- PRJ301
+- Data Structures
+- Exercise
+- Practical Exam
+
 
 
